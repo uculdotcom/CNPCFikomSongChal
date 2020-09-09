@@ -1,5 +1,5 @@
-Combine and copy-paste code for Instagram's caption.
+Combine and copy-paste code for easy caption purpose
 
-This one is specifically made for an event's purpose, you may reuse it by modifying, adjusting to the needs of yours.
+This one is specifically made for an event, you may reuse it.
 
 Preview : https://fikomsongcaption.netlify.app/
